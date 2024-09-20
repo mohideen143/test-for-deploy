@@ -1,0 +1,7 @@
+com\example\demo\Modal\CrudModal.class
+com\example\demo\Controller\CrudController.class
+com\example\demo\TestForDeployApplication.class
+com\example\demo\Entity\Student.class
+com\example\demo\Service\CrudService.class
+com\example\demo\Service\CrudServiceImpl.class
+com\example\demo\Repo\CrudRepo.class
